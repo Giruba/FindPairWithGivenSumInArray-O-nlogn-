@@ -1,4 +1,6 @@
-﻿using System;
+﻿/******* Author : Giruba Beulah SE *******/
+
+using System;
 
 namespace FindPariWithGivenSumInArray
 {
